@@ -1,5 +1,78 @@
 ## Hi there 👋
 
+<h1 align="center">Hey 👋 Welcome to my GitHub Profile</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Web+Developer;Software+Engineering+Learner;Building+Real-World+Tech+Solutions" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌐 Exploring Web Development and Software Engineering
+- 🚀 Passionate about building intelligent and scalable applications
+- 📚 Continuously learning and improving through real-world projects and problem solving
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 Plant Disease Detection Using VGG16
+AI-powered plant disease detection using Deep Learning and Transfer Learning.
+
+### 🌍 CarbonSense-AI
+Machine learning-based carbon footprint prediction and sustainability analysis system.
+
+### 🚑 Hospital ER Optimizer
+AI-powered emergency room optimization system using Machine Learning and intelligent resource allocation.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bindzhree&show_icons=true&theme=tokyonight" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bindzhree&theme=tokyonight" height="170">
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Deep Learning
+- Software Engineering Concepts
+- Full Stack Development
+- Intelligent System Design
+
+---
+
+## 💻 Coding Profiles
+
+- LeetCode: [Add Your Link Here]
+- GitHub: https://github.com/Bindzhree
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bindzhree&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
+
+
 <!--
 **Bindzhree/Bindzhree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
