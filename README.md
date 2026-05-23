@@ -36,13 +36,17 @@ AI-powered emergency room optimization system using Machine Learning and intelli
 
 # 💻 Coding Profiles
 
-### 🔗 LeetCode
-Add your profile link here
+<div align="center">
 
-### 🔗 GitHub
-https://github.com/Bindzhree
+<a href="https://leetcode.com/u/BS_Bindushree/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
+<a href="https://github.com/Bindzhree" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+</div>
 ---
 
 
@@ -53,13 +57,6 @@ https://github.com/Bindzhree
 - Software Engineering Concepts
 - Full Stack Development
 - Intelligent System Design
-
----
-
-## 💻 Coding Profiles
-
-- LeetCode: [Add Your Link Here]
-- GitHub: https://github.com/Bindzhree
 
 ---
 
