@@ -49,16 +49,28 @@ AI-powered emergency room optimization system using Machine Learning and intelli
 </div>
 ---
 
-
 ## 🧠 Currently Learning
 
 - Advanced Data Structures & Algorithms
 - Deep Learning
 - Software Engineering Concepts
 - Full Stack Development
-- Intelligent System Design
 
 ---
+# 📫 Contact Me
+
+<div align="center">
+
+<a href="linkedin.com/in/b-s-bindushree-a72002319" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="1nt23cs037.bindushree@nmit.ac.in">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
 
 ## 👀 Profile Visitors
 
