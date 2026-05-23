@@ -11,8 +11,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science Engineering Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌐 Exploring Web Development and Software Engineering
+- 🤖 Interested and exploring in Artificial Intelligence & Machine Learning | Web Development and Software Engineering
 - 🚀 Passionate about building intelligent and scalable applications
 - 📚 Continuously learning and improving through real-world projects and problem solving
 
