@@ -1,20 +1,11 @@
 ## Hi there 👋
 
-<div align="center">
+<h1 align="center">Hey 👋 Welcome to my GitHub Profile</h1>
 
-# Bindushree ✨
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Web+Developer;Software+Engineering+Learner;Building+Real-World+Tech+Solutions" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Enthusiast;Software+Engineering+Learner;Web+Developer;Building+Intelligent+Systems;Turning+Ideas+into+Real-World+Solutions" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Bindzhree&label=Profile+Views&color=0e75b6&style=flat-square" />
-
-</div>
-
----
-
-<div align="center">
 ---
 
 ## 👩‍💻 About Me
@@ -45,15 +36,12 @@ AI-powered emergency room optimization system using Machine Learning and intelli
 
 # 💻 Coding Profiles
 
-<div align="center">
-
 ### 🔗 LeetCode
 Add your profile link here
 
 ### 🔗 GitHub
 https://github.com/Bindzhree
 
-</div>
 
 ---
 
