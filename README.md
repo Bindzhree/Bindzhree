@@ -1,4 +1,9 @@
 ## Hi there 👋
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bindzhree/Bindzhree/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 <h1 align="center">Hey 👋 Welcome to my GitHub Profile</h1>
 
